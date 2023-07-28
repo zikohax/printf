@@ -1,6 +1,6 @@
 # MEKKAOUI Zakaria and LAHRACHE Abdelghafour - Custom printf() Project
 
-The custom printf() project is a collaborative effort by MEKKAOUI Zakaria and LAHRACHE Abdelghafour, both students of the ALX Software Engineering Programme at Holberton School. The main objective of this project is to create a function named "_printf" that emulates the behavior of the standard "printf" function found in the stdio.h library. This custom _printf() function incorporates some of the fundamental features and functionalities available in the manual 3 of the original "printf".
+The custom printf() project is a collaborative effort by MEKKAOUI Zakaria and LAHRACHE Abdelghafour, both students of the ALX Software Engineering Programme. The main objective of this project is to create a function named "_printf" that emulates the behavior of the standard "printf" function found in the stdio.h library. This custom _printf() function incorporates some of the fundamental features and functionalities available in the manual 3 of the original "printf".
 
 The _printf() function is designed to handle formatted output conversion and print data accordingly. Its prototype is defined as follows:
 
